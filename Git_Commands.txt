@@ -1,0 +1,11 @@
+git init  -- To initialise git
+git add .  -- To add code on git
+git commit -m "first commit" -n  -- To commit lastest changes on git
+git remote add origin https://github.com/HimanshiGulati/Testing.git   -- To add folder to created repository
+git push -u origin master  -- To push code at the first time only
+git push -- To push code at the first time only
+
+For authentication :--
+
+git config --global user.email "EmailID"
+git config --global user.name "username"
