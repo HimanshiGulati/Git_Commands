@@ -1,0 +1,8 @@
+git checkout -b "Branch_name"  -- To create a new branch
+git add . -- To add the changes to branch
+git commit -m "Message" -n -- To commit the changes to branch
+git push -u origin brach_name -- To push changes at the first time
+git push -- To push changes at the second time
+git checkout branch_name -- To move to specific branch
+git branch -- To list all the branch names
+git pull -- To pull changes to the current branch from git repository
